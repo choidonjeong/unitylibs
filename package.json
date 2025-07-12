@@ -1,0 +1,12 @@
+{
+  "name": "com.choidonjeong.unitylibs",
+  "version": "1.0.0",
+  "displayName": "Unity 공용 패키지",
+  "description": "프로젝트 간 재사용 가능한 유틸리티 및 툴 모음",
+  "unity": "2021.3",
+  "author": {
+    "name": "Choi Donjeong",
+    "email": "choidonjeong@gmail.com"
+  },
+  "dependencies": {}
+}
